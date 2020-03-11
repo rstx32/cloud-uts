@@ -1,0 +1,13 @@
+html, body {
+    height: 100%;
+}
+
+table, th, td{
+  padding: 6px;
+  text-align: center;
+}
+
+.container-full {
+  min-height: 100%;
+  width: 100%;
+}
